@@ -1,4 +1,4 @@
-# Empréstimo de Livros
+# Aplicação de Empréstimo de Livros em django. Pt 1.
 ## Objetivo
 Apresentar o uso de modelos em django e o mapeamento das classes para um banco de dados relacional (sqlite)
 ## Instruções
