@@ -25,7 +25,9 @@ Para windows:
 .\env\Scripts\Activate.ps1
 ```
 #### 3. Instalar as dependências
+```
 pip install -r requirements.txt
+```
 #### 4. Criar a migrações
 ```
 cd projeto
