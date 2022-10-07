@@ -1,6 +1,10 @@
 # Aplicação de Empréstimo de Livros em django. Pt 1.
 ## Objetivo
 Apresentar o uso de modelos em django e o mapeamento das classes para um banco de dados relacional (sqlite)
+
+## Definição (simples) do cenário
+“Um usuário cadastrado no sistema pode selecionar um livro de uma lista de livros cadastrados e fazer o empréstimo desse livro por uma duração determinada (padrão de 7 dias)”
+ 
 ## Instruções
 ### Pré-requisitos
 Para utilizar este repositório você precisa ter python 3.7+ instalado, um editor de texto como o vscode ou pycharm ou acesso a um terminal de linha de comando (linux/mac) ou powershell (windows).
